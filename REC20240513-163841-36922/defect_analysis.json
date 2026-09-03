@@ -1,0 +1,4382 @@
+{
+    "video_source": "/Users/devanshmody/Dashcam/Videos/Rovedashcam/video/Front/REC20240513-163841-36922.mp4",
+    "total_frames": 62,
+    "frames": [
+        {
+            "frame_index": 0,
+            "timestamp_seconds": 0.0,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.847,
+                    "bbox_xyxy": [
+                        196,
+                        1076,
+                        889,
+                        1371
+                    ],
+                    "mask_area_pixels": 141116,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.621,
+                    "bbox_xyxy": [
+                        2328,
+                        1054,
+                        3477,
+                        1572
+                    ],
+                    "mask_area_pixels": 407913,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.519,
+                    "bbox_xyxy": [
+                        2333,
+                        1055,
+                        3473,
+                        1561
+                    ],
+                    "mask_area_pixels": 407648,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.354,
+                    "bbox_xyxy": [
+                        3682,
+                        1158,
+                        3792,
+                        1238
+                    ],
+                    "mask_area_pixels": 7412,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 1,
+            "timestamp_seconds": 0.03,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.864,
+                    "bbox_xyxy": [
+                        1259,
+                        958,
+                        2689,
+                        1501
+                    ],
+                    "mask_area_pixels": 558558,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.831,
+                    "bbox_xyxy": [
+                        1,
+                        1028,
+                        443,
+                        1286
+                    ],
+                    "mask_area_pixels": 85866,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.289,
+                    "bbox_xyxy": [
+                        0,
+                        1007,
+                        90,
+                        1097
+                    ],
+                    "mask_area_pixels": 5081,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.262,
+                    "bbox_xyxy": [
+                        1546,
+                        1076,
+                        1626,
+                        1120
+                    ],
+                    "mask_area_pixels": 2453,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 2,
+            "timestamp_seconds": 0.07,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.777,
+                    "bbox_xyxy": [
+                        561,
+                        925,
+                        1851,
+                        1522
+                    ],
+                    "mask_area_pixels": 528037,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.717,
+                    "bbox_xyxy": [
+                        0,
+                        1001,
+                        200,
+                        1250
+                    ],
+                    "mask_area_pixels": 36616,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.478,
+                    "bbox_xyxy": [
+                        2068,
+                        1074,
+                        2303,
+                        1163
+                    ],
+                    "mask_area_pixels": 15667,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.382,
+                    "bbox_xyxy": [
+                        2069,
+                        1074,
+                        2202,
+                        1156
+                    ],
+                    "mask_area_pixels": 8243,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.291,
+                    "bbox_xyxy": [
+                        2362,
+                        1078,
+                        2499,
+                        1167
+                    ],
+                    "mask_area_pixels": 13329,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 3,
+            "timestamp_seconds": 0.1,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.817,
+                    "bbox_xyxy": [
+                        34,
+                        905,
+                        1001,
+                        1403
+                    ],
+                    "mask_area_pixels": 332972,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.577,
+                    "bbox_xyxy": [
+                        0,
+                        978,
+                        90,
+                        1045
+                    ],
+                    "mask_area_pixels": 4434,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.363,
+                    "bbox_xyxy": [
+                        2349,
+                        1048,
+                        2484,
+                        1153
+                    ],
+                    "mask_area_pixels": 14086,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.273,
+                    "bbox_xyxy": [
+                        3623,
+                        1132,
+                        3835,
+                        1372
+                    ],
+                    "mask_area_pixels": 40534,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 4,
+            "timestamp_seconds": 0.13,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.87,
+                    "bbox_xyxy": [
+                        0,
+                        908,
+                        476,
+                        1304
+                    ],
+                    "mask_area_pixels": 156373,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.533,
+                    "bbox_xyxy": [
+                        3316,
+                        974,
+                        3838,
+                        1377
+                    ],
+                    "mask_area_pixels": 151856,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.307,
+                    "bbox_xyxy": [
+                        2060,
+                        1034,
+                        2271,
+                        1122
+                    ],
+                    "mask_area_pixels": 15479,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 5,
+            "timestamp_seconds": 0.17,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.638,
+                    "bbox_xyxy": [
+                        0,
+                        933,
+                        110,
+                        1265
+                    ],
+                    "mask_area_pixels": 26895,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.577,
+                    "bbox_xyxy": [
+                        2906,
+                        961,
+                        3831,
+                        1390
+                    ],
+                    "mask_area_pixels": 290835,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.29,
+                    "bbox_xyxy": [
+                        2329,
+                        1018,
+                        2472,
+                        1121
+                    ],
+                    "mask_area_pixels": 13770,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.271,
+                    "bbox_xyxy": [
+                        0,
+                        916,
+                        116,
+                        1266
+                    ],
+                    "mask_area_pixels": 27191,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 6,
+            "timestamp_seconds": 0.2,
+            "detections": [
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.854,
+                    "bbox_xyxy": [
+                        2387,
+                        902,
+                        3558,
+                        1377
+                    ],
+                    "mask_area_pixels": 411594,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.409,
+                    "bbox_xyxy": [
+                        2322,
+                        1011,
+                        2437,
+                        1098
+                    ],
+                    "mask_area_pixels": 9611,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.274,
+                    "bbox_xyxy": [
+                        3613,
+                        1071,
+                        3712,
+                        1144
+                    ],
+                    "mask_area_pixels": 6934,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 7,
+            "timestamp_seconds": 0.23,
+            "detections": [
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.877,
+                    "bbox_xyxy": [
+                        1690,
+                        833,
+                        3122,
+                        1353
+                    ],
+                    "mask_area_pixels": 536676,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.616,
+                    "bbox_xyxy": [
+                        3682,
+                        1115,
+                        3838,
+                        1268
+                    ],
+                    "mask_area_pixels": 17583,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.407,
+                    "bbox_xyxy": [
+                        0,
+                        934,
+                        90,
+                        995
+                    ],
+                    "mask_area_pixels": 4614,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 8,
+            "timestamp_seconds": 0.27,
+            "detections": [
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.788,
+                    "bbox_xyxy": [
+                        1094,
+                        797,
+                        2598,
+                        1331
+                    ],
+                    "mask_area_pixels": 582268,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.427,
+                    "bbox_xyxy": [
+                        0,
+                        931,
+                        84,
+                        989
+                    ],
+                    "mask_area_pixels": 4414,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.386,
+                    "bbox_xyxy": [
+                        3511,
+                        1106,
+                        3836,
+                        1263
+                    ],
+                    "mask_area_pixels": 43828,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.301,
+                    "bbox_xyxy": [
+                        3510,
+                        1139,
+                        3694,
+                        1261
+                    ],
+                    "mask_area_pixels": 17257,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 9,
+            "timestamp_seconds": 0.3,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.752,
+                    "bbox_xyxy": [
+                        3295,
+                        1065,
+                        3706,
+                        1258
+                    ],
+                    "mask_area_pixels": 56521,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.683,
+                    "bbox_xyxy": [
+                        612,
+                        770,
+                        1993,
+                        1277
+                    ],
+                    "mask_area_pixels": 515961,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.348,
+                    "bbox_xyxy": [
+                        0,
+                        931,
+                        88,
+                        983
+                    ],
+                    "mask_area_pixels": 4052,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.333,
+                    "bbox_xyxy": [
+                        2278,
+                        967,
+                        2421,
+                        1068
+                    ],
+                    "mask_area_pixels": 12933,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 10,
+            "timestamp_seconds": 0.33,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.854,
+                    "bbox_xyxy": [
+                        3052,
+                        1043,
+                        3521,
+                        1238
+                    ],
+                    "mask_area_pixels": 69943,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.705,
+                    "bbox_xyxy": [
+                        263,
+                        757,
+                        1433,
+                        1250
+                    ],
+                    "mask_area_pixels": 413452,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.433,
+                    "bbox_xyxy": [
+                        0,
+                        880,
+                        85,
+                        971
+                    ],
+                    "mask_area_pixels": 5515,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.29,
+                    "bbox_xyxy": [
+                        2003,
+                        951,
+                        2128,
+                        1033
+                    ],
+                    "mask_area_pixels": 7331,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 11,
+            "timestamp_seconds": 0.37,
+            "detections": [
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.851,
+                    "bbox_xyxy": [
+                        0,
+                        735,
+                        912,
+                        1180
+                    ],
+                    "mask_area_pixels": 309592,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.831,
+                    "bbox_xyxy": [
+                        2700,
+                        1025,
+                        3266,
+                        1243
+                    ],
+                    "mask_area_pixels": 88720,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.556,
+                    "bbox_xyxy": [
+                        3712,
+                        1086,
+                        3838,
+                        1286
+                    ],
+                    "mask_area_pixels": 18434,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.32,
+                    "bbox_xyxy": [
+                        1499,
+                        919,
+                        1570,
+                        985
+                    ],
+                    "mask_area_pixels": 4310,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.288,
+                    "bbox_xyxy": [
+                        1984,
+                        937,
+                        2214,
+                        1030
+                    ],
+                    "mask_area_pixels": 14537,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.282,
+                    "bbox_xyxy": [
+                        2259,
+                        950,
+                        2389,
+                        1043
+                    ],
+                    "mask_area_pixels": 12086,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 12,
+            "timestamp_seconds": 0.4,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.87,
+                    "bbox_xyxy": [
+                        2356,
+                        1034,
+                        2997,
+                        1261
+                    ],
+                    "mask_area_pixels": 104347,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.849,
+                    "bbox_xyxy": [
+                        1,
+                        822,
+                        554,
+                        1204
+                    ],
+                    "mask_area_pixels": 182085,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.582,
+                    "bbox_xyxy": [
+                        3525,
+                        1046,
+                        3837,
+                        1292
+                    ],
+                    "mask_area_pixels": 59066,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.407,
+                    "bbox_xyxy": [
+                        2251,
+                        970,
+                        2386,
+                        1067
+                    ],
+                    "mask_area_pixels": 12665,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.262,
+                    "bbox_xyxy": [
+                        1485,
+                        961,
+                        1562,
+                        1018
+                    ],
+                    "mask_area_pixels": 4014,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.252,
+                    "bbox_xyxy": [
+                        1989,
+                        974,
+                        2104,
+                        1050
+                    ],
+                    "mask_area_pixels": 7472,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 13,
+            "timestamp_seconds": 0.43,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.845,
+                    "bbox_xyxy": [
+                        1992,
+                        1019,
+                        2697,
+                        1255
+                    ],
+                    "mask_area_pixels": 118376,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.804,
+                    "bbox_xyxy": [
+                        0,
+                        818,
+                        283,
+                        1193
+                    ],
+                    "mask_area_pixels": 87507,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.678,
+                    "bbox_xyxy": [
+                        3312,
+                        1042,
+                        3840,
+                        1303
+                    ],
+                    "mask_area_pixels": 103369,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.415,
+                    "bbox_xyxy": [
+                        1966,
+                        978,
+                        2195,
+                        1062
+                    ],
+                    "mask_area_pixels": 14672,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.383,
+                    "bbox_xyxy": [
+                        1977,
+                        981,
+                        2143,
+                        1054
+                    ],
+                    "mask_area_pixels": 10585,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.298,
+                    "bbox_xyxy": [
+                        1480,
+                        964,
+                        1568,
+                        1021
+                    ],
+                    "mask_area_pixels": 4269,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 14,
+            "timestamp_seconds": 0.47,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.852,
+                    "bbox_xyxy": [
+                        1614,
+                        1004,
+                        2365,
+                        1247
+                    ],
+                    "mask_area_pixels": 125998,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.48,
+                    "bbox_xyxy": [
+                        3047,
+                        1013,
+                        3663,
+                        1292
+                    ],
+                    "mask_area_pixels": 132312,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.422,
+                    "bbox_xyxy": [
+                        3044,
+                        1014,
+                        3663,
+                        1293
+                    ],
+                    "mask_area_pixels": 132328,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 15,
+            "timestamp_seconds": 0.5,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.87,
+                    "bbox_xyxy": [
+                        1215,
+                        1002,
+                        1942,
+                        1240
+                    ],
+                    "mask_area_pixels": 122449,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.789,
+                    "bbox_xyxy": [
+                        2665,
+                        994,
+                        3417,
+                        1308
+                    ],
+                    "mask_area_pixels": 177923,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.654,
+                    "bbox_xyxy": [
+                        3636,
+                        1067,
+                        3837,
+                        1279
+                    ],
+                    "mask_area_pixels": 32018,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.609,
+                    "bbox_xyxy": [
+                        1991,
+                        983,
+                        2179,
+                        1073
+                    ],
+                    "mask_area_pixels": 13076,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.456,
+                    "bbox_xyxy": [
+                        11,
+                        935,
+                        110,
+                        991
+                    ],
+                    "mask_area_pixels": 4459,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 16,
+            "timestamp_seconds": 0.53,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.865,
+                    "bbox_xyxy": [
+                        898,
+                        1006,
+                        1607,
+                        1239
+                    ],
+                    "mask_area_pixels": 115369,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.819,
+                    "bbox_xyxy": [
+                        2280,
+                        977,
+                        3157,
+                        1305
+                    ],
+                    "mask_area_pixels": 218922,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.536,
+                    "bbox_xyxy": [
+                        3469,
+                        1060,
+                        3837,
+                        1286
+                    ],
+                    "mask_area_pixels": 65273,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 17,
+            "timestamp_seconds": 0.57,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.888,
+                    "bbox_xyxy": [
+                        1864,
+                        967,
+                        2825,
+                        1308
+                    ],
+                    "mask_area_pixels": 253329,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.874,
+                    "bbox_xyxy": [
+                        642,
+                        1004,
+                        1270,
+                        1233
+                    ],
+                    "mask_area_pixels": 102381,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.735,
+                    "bbox_xyxy": [
+                        3275,
+                        1053,
+                        3742,
+                        1302
+                    ],
+                    "mask_area_pixels": 85383,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.336,
+                    "bbox_xyxy": [
+                        3271,
+                        1088,
+                        3614,
+                        1294
+                    ],
+                    "mask_area_pixels": 42750,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.259,
+                    "bbox_xyxy": [
+                        1501,
+                        988,
+                        1569,
+                        1048
+                    ],
+                    "mask_area_pixels": 3753,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 18,
+            "timestamp_seconds": 0.6,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.885,
+                    "bbox_xyxy": [
+                        417,
+                        1008,
+                        983,
+                        1222
+                    ],
+                    "mask_area_pixels": 88121,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.869,
+                    "bbox_xyxy": [
+                        1433,
+                        955,
+                        2450,
+                        1302
+                    ],
+                    "mask_area_pixels": 273144,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.766,
+                    "bbox_xyxy": [
+                        3045,
+                        1044,
+                        3582,
+                        1312
+                    ],
+                    "mask_area_pixels": 106934,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.263,
+                    "bbox_xyxy": [
+                        37,
+                        963,
+                        133,
+                        1015
+                    ],
+                    "mask_area_pixels": 3639,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 19,
+            "timestamp_seconds": 0.63,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.868,
+                    "bbox_xyxy": [
+                        201,
+                        1005,
+                        692,
+                        1209
+                    ],
+                    "mask_area_pixels": 72827,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.851,
+                    "bbox_xyxy": [
+                        961,
+                        944,
+                        1964,
+                        1282
+                    ],
+                    "mask_area_pixels": 267052,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.769,
+                    "bbox_xyxy": [
+                        2720,
+                        1029,
+                        3374,
+                        1316
+                    ],
+                    "mask_area_pixels": 139004,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.638,
+                    "bbox_xyxy": [
+                        3767,
+                        1159,
+                        3838,
+                        1279
+                    ],
+                    "mask_area_pixels": 7084,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 20,
+            "timestamp_seconds": 0.67,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.835,
+                    "bbox_xyxy": [
+                        52,
+                        1000,
+                        482,
+                        1193
+                    ],
+                    "mask_area_pixels": 60035,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.833,
+                    "bbox_xyxy": [
+                        2399,
+                        1013,
+                        3155,
+                        1329
+                    ],
+                    "mask_area_pixels": 170694,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.83,
+                    "bbox_xyxy": [
+                        626,
+                        933,
+                        1560,
+                        1283
+                    ],
+                    "mask_area_pixels": 239475,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.768,
+                    "bbox_xyxy": [
+                        3658,
+                        1136,
+                        3838,
+                        1301
+                    ],
+                    "mask_area_pixels": 22954,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 21,
+            "timestamp_seconds": 0.7,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.885,
+                    "bbox_xyxy": [
+                        358,
+                        937,
+                        1179,
+                        1266
+                    ],
+                    "mask_area_pixels": 203883,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.841,
+                    "bbox_xyxy": [
+                        2029,
+                        1004,
+                        2882,
+                        1322
+                    ],
+                    "mask_area_pixels": 196960,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.807,
+                    "bbox_xyxy": [
+                        0,
+                        1007,
+                        302,
+                        1187
+                    ],
+                    "mask_area_pixels": 42276,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.667,
+                    "bbox_xyxy": [
+                        3536,
+                        1114,
+                        3837,
+                        1302
+                    ],
+                    "mask_area_pixels": 42244,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.366,
+                    "bbox_xyxy": [
+                        1972,
+                        1022,
+                        2158,
+                        1099
+                    ],
+                    "mask_area_pixels": 11943,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 22,
+            "timestamp_seconds": 0.73,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.84,
+                    "bbox_xyxy": [
+                        1673,
+                        999,
+                        2561,
+                        1321
+                    ],
+                    "mask_area_pixels": 212586,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.816,
+                    "bbox_xyxy": [
+                        153,
+                        942,
+                        872,
+                        1271
+                    ],
+                    "mask_area_pixels": 168640,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.682,
+                    "bbox_xyxy": [
+                        0,
+                        1018,
+                        160,
+                        1183
+                    ],
+                    "mask_area_pixels": 20279,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.64,
+                    "bbox_xyxy": [
+                        3395,
+                        1099,
+                        3835,
+                        1316
+                    ],
+                    "mask_area_pixels": 59003,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 23,
+            "timestamp_seconds": 0.77,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.863,
+                    "bbox_xyxy": [
+                        1229,
+                        993,
+                        2139,
+                        1313
+                    ],
+                    "mask_area_pixels": 214900,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.756,
+                    "bbox_xyxy": [
+                        0,
+                        953,
+                        552,
+                        1242
+                    ],
+                    "mask_area_pixels": 128039,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.686,
+                    "bbox_xyxy": [
+                        3210,
+                        1104,
+                        3707,
+                        1326
+                    ],
+                    "mask_area_pixels": 71057,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 24,
+            "timestamp_seconds": 0.8,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.871,
+                    "bbox_xyxy": [
+                        900,
+                        982,
+                        1775,
+                        1300
+                    ],
+                    "mask_area_pixels": 204614,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.691,
+                    "bbox_xyxy": [
+                        0,
+                        951,
+                        343,
+                        1234
+                    ],
+                    "mask_area_pixels": 78122,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.399,
+                    "bbox_xyxy": [
+                        2000,
+                        1048,
+                        2206,
+                        1133
+                    ],
+                    "mask_area_pixels": 13310,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.298,
+                    "bbox_xyxy": [
+                        2244,
+                        1041,
+                        2374,
+                        1135
+                    ],
+                    "mask_area_pixels": 11571,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.272,
+                    "bbox_xyxy": [
+                        1944,
+                        1043,
+                        2186,
+                        1130
+                    ],
+                    "mask_area_pixels": 16234,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.25,
+                    "bbox_xyxy": [
+                        3024,
+                        1090,
+                        3573,
+                        1343
+                    ],
+                    "mask_area_pixels": 93779,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 25,
+            "timestamp_seconds": 0.83,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.875,
+                    "bbox_xyxy": [
+                        627,
+                        983,
+                        1435,
+                        1297
+                    ],
+                    "mask_area_pixels": 186341,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.692,
+                    "bbox_xyxy": [
+                        2817,
+                        1090,
+                        3404,
+                        1354
+                    ],
+                    "mask_area_pixels": 101378,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.671,
+                    "bbox_xyxy": [
+                        3758,
+                        1212,
+                        3838,
+                        1309
+                    ],
+                    "mask_area_pixels": 6691,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.647,
+                    "bbox_xyxy": [
+                        0,
+                        962,
+                        178,
+                        1215
+                    ],
+                    "mask_area_pixels": 33615,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.295,
+                    "bbox_xyxy": [
+                        1873,
+                        881,
+                        2300,
+                        1140
+                    ],
+                    "mask_area_pixels": 84799,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.294,
+                    "bbox_xyxy": [
+                        2006,
+                        1058,
+                        2134,
+                        1135
+                    ],
+                    "mask_area_pixels": 7110,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 26,
+            "timestamp_seconds": 0.87,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.88,
+                    "bbox_xyxy": [
+                        404,
+                        983,
+                        1117,
+                        1286
+                    ],
+                    "mask_area_pixels": 162581,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.694,
+                    "bbox_xyxy": [
+                        2567,
+                        1085,
+                        3218,
+                        1367
+                    ],
+                    "mask_area_pixels": 111842,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.62,
+                    "bbox_xyxy": [
+                        3707,
+                        1190,
+                        3820,
+                        1321
+                    ],
+                    "mask_area_pixels": 10619,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.304,
+                    "bbox_xyxy": [
+                        1976,
+                        1065,
+                        2148,
+                        1146
+                    ],
+                    "mask_area_pixels": 10599,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 27,
+            "timestamp_seconds": 0.9,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.834,
+                    "bbox_xyxy": [
+                        192,
+                        983,
+                        805,
+                        1273
+                    ],
+                    "mask_area_pixels": 131641,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.799,
+                    "bbox_xyxy": [
+                        2261,
+                        1111,
+                        2957,
+                        1371
+                    ],
+                    "mask_area_pixels": 125641,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.646,
+                    "bbox_xyxy": [
+                        3625,
+                        1168,
+                        3782,
+                        1329
+                    ],
+                    "mask_area_pixels": 17128,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.635,
+                    "bbox_xyxy": [
+                        2157,
+                        1056,
+                        2706,
+                        1297
+                    ],
+                    "mask_area_pixels": 46038,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.389,
+                    "bbox_xyxy": [
+                        2018,
+                        1072,
+                        2210,
+                        1149
+                    ],
+                    "mask_area_pixels": 11730,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.327,
+                    "bbox_xyxy": [
+                        2006,
+                        1073,
+                        2157,
+                        1147
+                    ],
+                    "mask_area_pixels": 9137,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.257,
+                    "bbox_xyxy": [
+                        1554,
+                        1054,
+                        1633,
+                        1115
+                    ],
+                    "mask_area_pixels": 3891,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 28,
+            "timestamp_seconds": 0.93,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.781,
+                    "bbox_xyxy": [
+                        1938,
+                        1106,
+                        2702,
+                        1371
+                    ],
+                    "mask_area_pixels": 138634,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.763,
+                    "bbox_xyxy": [
+                        3547,
+                        1175,
+                        3754,
+                        1336
+                    ],
+                    "mask_area_pixels": 25521,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.75,
+                    "bbox_xyxy": [
+                        44,
+                        986,
+                        582,
+                        1256
+                    ],
+                    "mask_area_pixels": 109378,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.329,
+                    "bbox_xyxy": [
+                        1557,
+                        1068,
+                        1637,
+                        1123
+                    ],
+                    "mask_area_pixels": 3868,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.324,
+                    "bbox_xyxy": [
+                        1764,
+                        1044,
+                        2313,
+                        1300
+                    ],
+                    "mask_area_pixels": 65431,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 29,
+            "timestamp_seconds": 0.97,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.818,
+                    "bbox_xyxy": [
+                        1612,
+                        1096,
+                        2407,
+                        1366
+                    ],
+                    "mask_area_pixels": 144168,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.727,
+                    "bbox_xyxy": [
+                        3443,
+                        1170,
+                        3728,
+                        1343
+                    ],
+                    "mask_area_pixels": 38662,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.725,
+                    "bbox_xyxy": [
+                        1,
+                        985,
+                        385,
+                        1240
+                    ],
+                    "mask_area_pixels": 80011,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.496,
+                    "bbox_xyxy": [
+                        1357,
+                        1021,
+                        1930,
+                        1289
+                    ],
+                    "mask_area_pixels": 84324,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 30,
+            "timestamp_seconds": 1.0,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.827,
+                    "bbox_xyxy": [
+                        1287,
+                        1084,
+                        2081,
+                        1347
+                    ],
+                    "mask_area_pixels": 143503,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.666,
+                    "bbox_xyxy": [
+                        3311,
+                        1152,
+                        3700,
+                        1356
+                    ],
+                    "mask_area_pixels": 58776,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.613,
+                    "bbox_xyxy": [
+                        0,
+                        984,
+                        220,
+                        1218
+                    ],
+                    "mask_area_pixels": 45276,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.465,
+                    "bbox_xyxy": [
+                        0,
+                        980,
+                        221,
+                        1223
+                    ],
+                    "mask_area_pixels": 45315,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.273,
+                    "bbox_xyxy": [
+                        2015,
+                        1076,
+                        2255,
+                        1169
+                    ],
+                    "mask_area_pixels": 13938,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 31,
+            "timestamp_seconds": 1.03,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.894,
+                    "bbox_xyxy": [
+                        924,
+                        1078,
+                        1694,
+                        1343
+                    ],
+                    "mask_area_pixels": 135508,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.776,
+                    "bbox_xyxy": [
+                        3150,
+                        1159,
+                        3582,
+                        1356
+                    ],
+                    "mask_area_pixels": 61151,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.624,
+                    "bbox_xyxy": [
+                        0,
+                        998,
+                        62,
+                        1207
+                    ],
+                    "mask_area_pixels": 11095,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.48,
+                    "bbox_xyxy": [
+                        632,
+                        1013,
+                        1181,
+                        1254
+                    ],
+                    "mask_area_pixels": 83325,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.412,
+                    "bbox_xyxy": [
+                        3041,
+                        1143,
+                        3402,
+                        1329
+                    ],
+                    "mask_area_pixels": 24607,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 32,
+            "timestamp_seconds": 1.07,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.857,
+                    "bbox_xyxy": [
+                        645,
+                        1060,
+                        1347,
+                        1332
+                    ],
+                    "mask_area_pixels": 122407,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.795,
+                    "bbox_xyxy": [
+                        2982,
+                        1167,
+                        3459,
+                        1362
+                    ],
+                    "mask_area_pixels": 70713,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.596,
+                    "bbox_xyxy": [
+                        386,
+                        1000,
+                        864,
+                        1240
+                    ],
+                    "mask_area_pixels": 71640,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.555,
+                    "bbox_xyxy": [
+                        2758,
+                        1128,
+                        3159,
+                        1333
+                    ],
+                    "mask_area_pixels": 43328,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.301,
+                    "bbox_xyxy": [
+                        1565,
+                        1076,
+                        1643,
+                        1134
+                    ],
+                    "mask_area_pixels": 3508,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.28,
+                    "bbox_xyxy": [
+                        3526,
+                        1150,
+                        3634,
+                        1237
+                    ],
+                    "mask_area_pixels": 8043,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 5,
+                    "label": "bus",
+                    "confidence": 0.269,
+                    "bbox_xyxy": [
+                        284,
+                        849,
+                        1646,
+                        1133
+                    ],
+                    "mask_area_pixels": 249406,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 33,
+            "timestamp_seconds": 1.1,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.859,
+                    "bbox_xyxy": [
+                        2751,
+                        1165,
+                        3315,
+                        1375
+                    ],
+                    "mask_area_pixels": 83344,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.858,
+                    "bbox_xyxy": [
+                        420,
+                        1072,
+                        1038,
+                        1313
+                    ],
+                    "mask_area_pixels": 105108,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.659,
+                    "bbox_xyxy": [
+                        2435,
+                        1125,
+                        2945,
+                        1339
+                    ],
+                    "mask_area_pixels": 64051,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.369,
+                    "bbox_xyxy": [
+                        3514,
+                        1155,
+                        3596,
+                        1236
+                    ],
+                    "mask_area_pixels": 5670,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 34,
+            "timestamp_seconds": 1.13,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.886,
+                    "bbox_xyxy": [
+                        2505,
+                        1160,
+                        3125,
+                        1375
+                    ],
+                    "mask_area_pixels": 95578,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.79,
+                    "bbox_xyxy": [
+                        228,
+                        1057,
+                        767,
+                        1292
+                    ],
+                    "mask_area_pixels": 86995,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.753,
+                    "bbox_xyxy": [
+                        2077,
+                        1118,
+                        2664,
+                        1339
+                    ],
+                    "mask_area_pixels": 81326,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.32,
+                    "bbox_xyxy": [
+                        19,
+                        1010,
+                        377,
+                        1216
+                    ],
+                    "mask_area_pixels": 46501,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 35,
+            "timestamp_seconds": 1.17,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.853,
+                    "bbox_xyxy": [
+                        2148,
+                        1149,
+                        2848,
+                        1372
+                    ],
+                    "mask_area_pixels": 108843,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.842,
+                    "bbox_xyxy": [
+                        32,
+                        1056,
+                        489,
+                        1268
+                    ],
+                    "mask_area_pixels": 67894,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.667,
+                    "bbox_xyxy": [
+                        1653,
+                        1105,
+                        2268,
+                        1331
+                    ],
+                    "mask_area_pixels": 93204,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 36,
+            "timestamp_seconds": 1.2,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.878,
+                    "bbox_xyxy": [
+                        1829,
+                        1150,
+                        2575,
+                        1377
+                    ],
+                    "mask_area_pixels": 115446,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.763,
+                    "bbox_xyxy": [
+                        0,
+                        1038,
+                        312,
+                        1252
+                    ],
+                    "mask_area_pixels": 46483,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.674,
+                    "bbox_xyxy": [
+                        1297,
+                        1104,
+                        1910,
+                        1330
+                    ],
+                    "mask_area_pixels": 96032,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 5,
+                    "label": "bus",
+                    "confidence": 0.411,
+                    "bbox_xyxy": [
+                        264,
+                        887,
+                        1648,
+                        1141
+                    ],
+                    "mask_area_pixels": 267763,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 37,
+            "timestamp_seconds": 1.23,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.925,
+                    "bbox_xyxy": [
+                        1504,
+                        1138,
+                        2234,
+                        1372
+                    ],
+                    "mask_area_pixels": 119266,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.76,
+                    "bbox_xyxy": [
+                        980,
+                        1094,
+                        1558,
+                        1308
+                    ],
+                    "mask_area_pixels": 89735,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.715,
+                    "bbox_xyxy": [
+                        0,
+                        1040,
+                        141,
+                        1233
+                    ],
+                    "mask_area_pixels": 20630,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.356,
+                    "bbox_xyxy": [
+                        2257,
+                        1111,
+                        2389,
+                        1209
+                    ],
+                    "mask_area_pixels": 10982,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.322,
+                    "bbox_xyxy": [
+                        3541,
+                        1177,
+                        3611,
+                        1261
+                    ],
+                    "mask_area_pixels": 5644,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 38,
+            "timestamp_seconds": 1.27,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.864,
+                    "bbox_xyxy": [
+                        1164,
+                        1130,
+                        1873,
+                        1364
+                    ],
+                    "mask_area_pixels": 116141,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.811,
+                    "bbox_xyxy": [
+                        701,
+                        1082,
+                        1245,
+                        1297
+                    ],
+                    "mask_area_pixels": 81969,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.667,
+                    "bbox_xyxy": [
+                        0,
+                        1034,
+                        76,
+                        1285
+                    ],
+                    "mask_area_pixels": 12397,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.397,
+                    "bbox_xyxy": [
+                        3513,
+                        1175,
+                        3607,
+                        1264
+                    ],
+                    "mask_area_pixels": 7808,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.371,
+                    "bbox_xyxy": [
+                        2002,
+                        1117,
+                        2214,
+                        1198
+                    ],
+                    "mask_area_pixels": 13472,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.368,
+                    "bbox_xyxy": [
+                        2249,
+                        1110,
+                        2385,
+                        1208
+                    ],
+                    "mask_area_pixels": 10816,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.326,
+                    "bbox_xyxy": [
+                        2000,
+                        1123,
+                        2117,
+                        1194
+                    ],
+                    "mask_area_pixels": 6670,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 39,
+            "timestamp_seconds": 1.3,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.865,
+                    "bbox_xyxy": [
+                        805,
+                        1116,
+                        1452,
+                        1357
+                    ],
+                    "mask_area_pixels": 104575,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.844,
+                    "bbox_xyxy": [
+                        0,
+                        982,
+                        477,
+                        1344
+                    ],
+                    "mask_area_pixels": 124304,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.818,
+                    "bbox_xyxy": [
+                        473,
+                        1076,
+                        901,
+                        1276
+                    ],
+                    "mask_area_pixels": 61611,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.676,
+                    "bbox_xyxy": [
+                        3733,
+                        1190,
+                        3838,
+                        1353
+                    ],
+                    "mask_area_pixels": 11362,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.373,
+                    "bbox_xyxy": [
+                        3497,
+                        1173,
+                        3607,
+                        1266
+                    ],
+                    "mask_area_pixels": 9427,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.366,
+                    "bbox_xyxy": [
+                        2013,
+                        1130,
+                        2123,
+                        1194
+                    ],
+                    "mask_area_pixels": 5986,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.335,
+                    "bbox_xyxy": [
+                        2255,
+                        1123,
+                        2371,
+                        1210
+                    ],
+                    "mask_area_pixels": 10004,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.251,
+                    "bbox_xyxy": [
+                        1555,
+                        1110,
+                        1644,
+                        1171
+                    ],
+                    "mask_area_pixels": 4384,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 40,
+            "timestamp_seconds": 1.33,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.798,
+                    "bbox_xyxy": [
+                        789,
+                        1105,
+                        1119,
+                        1326
+                    ],
+                    "mask_area_pixels": 30939,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.797,
+                    "bbox_xyxy": [
+                        3656,
+                        1188,
+                        3836,
+                        1356
+                    ],
+                    "mask_area_pixels": 23503,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.775,
+                    "bbox_xyxy": [
+                        157,
+                        987,
+                        979,
+                        1372
+                    ],
+                    "mask_area_pixels": 220139,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.394,
+                    "bbox_xyxy": [
+                        2017,
+                        1125,
+                        2162,
+                        1205
+                    ],
+                    "mask_area_pixels": 10345,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.365,
+                    "bbox_xyxy": [
+                        2012,
+                        1120,
+                        2225,
+                        1211
+                    ],
+                    "mask_area_pixels": 13163,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.26,
+                    "bbox_xyxy": [
+                        1557,
+                        1119,
+                        1640,
+                        1171
+                    ],
+                    "mask_area_pixels": 3783,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 41,
+            "timestamp_seconds": 1.37,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.869,
+                    "bbox_xyxy": [
+                        591,
+                        1010,
+                        1578,
+                        1460
+                    ],
+                    "mask_area_pixels": 321025,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.761,
+                    "bbox_xyxy": [
+                        84,
+                        1063,
+                        457,
+                        1256
+                    ],
+                    "mask_area_pixels": 39662,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.75,
+                    "bbox_xyxy": [
+                        3571,
+                        1185,
+                        3835,
+                        1363
+                    ],
+                    "mask_area_pixels": 36709,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.687,
+                    "bbox_xyxy": [
+                        294,
+                        1091,
+                        653,
+                        1282
+                    ],
+                    "mask_area_pixels": 44524,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.393,
+                    "bbox_xyxy": [
+                        2017,
+                        1124,
+                        2165,
+                        1206
+                    ],
+                    "mask_area_pixels": 9373,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.316,
+                    "bbox_xyxy": [
+                        2014,
+                        1117,
+                        2214,
+                        1211
+                    ],
+                    "mask_area_pixels": 12917,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.287,
+                    "bbox_xyxy": [
+                        1555,
+                        1116,
+                        1643,
+                        1178
+                    ],
+                    "mask_area_pixels": 3912,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 42,
+            "timestamp_seconds": 1.4,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.815,
+                    "bbox_xyxy": [
+                        203,
+                        1077,
+                        573,
+                        1281
+                    ],
+                    "mask_area_pixels": 41669,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.796,
+                    "bbox_xyxy": [
+                        0,
+                        1048,
+                        406,
+                        1463
+                    ],
+                    "mask_area_pixels": 120299,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.741,
+                    "bbox_xyxy": [
+                        1195,
+                        1012,
+                        2262,
+                        1477
+                    ],
+                    "mask_area_pixels": 333329,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.65,
+                    "bbox_xyxy": [
+                        3480,
+                        1184,
+                        3833,
+                        1365
+                    ],
+                    "mask_area_pixels": 50406,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.437,
+                    "bbox_xyxy": [
+                        2254,
+                        1124,
+                        2374,
+                        1212
+                    ],
+                    "mask_area_pixels": 10187,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.275,
+                    "bbox_xyxy": [
+                        2033,
+                        1118,
+                        2215,
+                        1208
+                    ],
+                    "mask_area_pixels": 10998,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 43,
+            "timestamp_seconds": 1.43,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.893,
+                    "bbox_xyxy": [
+                        2014,
+                        1055,
+                        2966,
+                        1471
+                    ],
+                    "mask_area_pixels": 291930,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.841,
+                    "bbox_xyxy": [
+                        356,
+                        1066,
+                        1449,
+                        1560
+                    ],
+                    "mask_area_pixels": 374846,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.795,
+                    "bbox_xyxy": [
+                        0,
+                        1051,
+                        329,
+                        1263
+                    ],
+                    "mask_area_pixels": 46381,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.538,
+                    "bbox_xyxy": [
+                        3343,
+                        1170,
+                        3738,
+                        1371
+                    ],
+                    "mask_area_pixels": 47093,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.265,
+                    "bbox_xyxy": [
+                        1559,
+                        1117,
+                        1642,
+                        1174
+                    ],
+                    "mask_area_pixels": 3805,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 44,
+            "timestamp_seconds": 1.47,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.837,
+                    "bbox_xyxy": [
+                        1384,
+                        1096,
+                        2616,
+                        1605
+                    ],
+                    "mask_area_pixels": 444937,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.705,
+                    "bbox_xyxy": [
+                        2618,
+                        1088,
+                        3381,
+                        1446
+                    ],
+                    "mask_area_pixels": 213492,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.558,
+                    "bbox_xyxy": [
+                        1,
+                        1060,
+                        154,
+                        1239
+                    ],
+                    "mask_area_pixels": 17903,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.296,
+                    "bbox_xyxy": [
+                        3277,
+                        1162,
+                        3643,
+                        1408
+                    ],
+                    "mask_area_pixels": 32948,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.281,
+                    "bbox_xyxy": [
+                        0,
+                        1054,
+                        158,
+                        1350
+                    ],
+                    "mask_area_pixels": 26749,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 45,
+            "timestamp_seconds": 1.5,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.754,
+                    "bbox_xyxy": [
+                        0,
+                        1031,
+                        611,
+                        1487
+                    ],
+                    "mask_area_pixels": 182353,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.717,
+                    "bbox_xyxy": [
+                        2496,
+                        1144,
+                        3491,
+                        1643
+                    ],
+                    "mask_area_pixels": 296476,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.389,
+                    "bbox_xyxy": [
+                        3171,
+                        1117,
+                        3673,
+                        1412
+                    ],
+                    "mask_area_pixels": 77611,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.342,
+                    "bbox_xyxy": [
+                        2025,
+                        1129,
+                        2163,
+                        1206
+                    ],
+                    "mask_area_pixels": 8303,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.26,
+                    "bbox_xyxy": [
+                        1554,
+                        1112,
+                        1642,
+                        1171
+                    ],
+                    "mask_area_pixels": 3877,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 46,
+            "timestamp_seconds": 1.53,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.779,
+                    "bbox_xyxy": [
+                        2858,
+                        1148,
+                        3380,
+                        1392
+                    ],
+                    "mask_area_pixels": 79896,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.666,
+                    "bbox_xyxy": [
+                        471,
+                        1046,
+                        1476,
+                        1535
+                    ],
+                    "mask_area_pixels": 352156,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.658,
+                    "bbox_xyxy": [
+                        3258,
+                        1171,
+                        3839,
+                        1533
+                    ],
+                    "mask_area_pixels": 138883,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.294,
+                    "bbox_xyxy": [
+                        1557,
+                        1111,
+                        1642,
+                        1171
+                    ],
+                    "mask_area_pixels": 3916,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.263,
+                    "bbox_xyxy": [
+                        2026,
+                        1128,
+                        2156,
+                        1205
+                    ],
+                    "mask_area_pixels": 9359,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 47,
+            "timestamp_seconds": 1.57,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.682,
+                    "bbox_xyxy": [
+                        1614,
+                        1095,
+                        2706,
+                        1582
+                    ],
+                    "mask_area_pixels": 382786,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.629,
+                    "bbox_xyxy": [
+                        3714,
+                        1172,
+                        3838,
+                        1457
+                    ],
+                    "mask_area_pixels": 30243,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.61,
+                    "bbox_xyxy": [
+                        2590,
+                        1137,
+                        3231,
+                        1396
+                    ],
+                    "mask_area_pixels": 111323,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 48,
+            "timestamp_seconds": 1.6,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.331,
+                    "bbox_xyxy": [
+                        2021,
+                        1129,
+                        2165,
+                        1208
+                    ],
+                    "mask_area_pixels": 9412,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.311,
+                    "bbox_xyxy": [
+                        1997,
+                        1130,
+                        2136,
+                        1204
+                    ],
+                    "mask_area_pixels": 8742,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.264,
+                    "bbox_xyxy": [
+                        2330,
+                        1140,
+                        2748,
+                        1390
+                    ],
+                    "mask_area_pixels": 49676,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 49,
+            "timestamp_seconds": 1.63,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.806,
+                    "bbox_xyxy": [
+                        2040,
+                        1121,
+                        2792,
+                        1395
+                    ],
+                    "mask_area_pixels": 150399,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.359,
+                    "bbox_xyxy": [
+                        1993,
+                        1127,
+                        2174,
+                        1199
+                    ],
+                    "mask_area_pixels": 12657,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.28,
+                    "bbox_xyxy": [
+                        3254,
+                        1157,
+                        3814,
+                        1518
+                    ],
+                    "mask_area_pixels": 117142,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.263,
+                    "bbox_xyxy": [
+                        3255,
+                        1152,
+                        3809,
+                        1518
+                    ],
+                    "mask_area_pixels": 117077,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 50,
+            "timestamp_seconds": 1.67,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.492,
+                    "bbox_xyxy": [
+                        1726,
+                        1108,
+                        2519,
+                        1396
+                    ],
+                    "mask_area_pixels": 163323,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.381,
+                    "bbox_xyxy": [
+                        3663,
+                        1186,
+                        3837,
+                        1457
+                    ],
+                    "mask_area_pixels": 37799,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.288,
+                    "bbox_xyxy": [
+                        3482,
+                        1176,
+                        3605,
+                        1271
+                    ],
+                    "mask_area_pixels": 9806,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 51,
+            "timestamp_seconds": 1.7,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.867,
+                    "bbox_xyxy": [
+                        1337,
+                        1077,
+                        2157,
+                        1381
+                    ],
+                    "mask_area_pixels": 169893,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.559,
+                    "bbox_xyxy": [
+                        3723,
+                        1230,
+                        3837,
+                        1352
+                    ],
+                    "mask_area_pixels": 11288,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 5,
+                    "label": "bus",
+                    "confidence": 0.35,
+                    "bbox_xyxy": [
+                        260,
+                        900,
+                        1647,
+                        1158
+                    ],
+                    "mask_area_pixels": 263355,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.332,
+                    "bbox_xyxy": [
+                        3488,
+                        1175,
+                        3604,
+                        1265
+                    ],
+                    "mask_area_pixels": 9255,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.3,
+                    "bbox_xyxy": [
+                        2255,
+                        1126,
+                        2373,
+                        1210
+                    ],
+                    "mask_area_pixels": 9961,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 52,
+            "timestamp_seconds": 1.73,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.826,
+                    "bbox_xyxy": [
+                        3633,
+                        1216,
+                        3838,
+                        1358
+                    ],
+                    "mask_area_pixels": 22948,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.635,
+                    "bbox_xyxy": [
+                        0,
+                        1010,
+                        390,
+                        1361
+                    ],
+                    "mask_area_pixels": 76377,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.564,
+                    "bbox_xyxy": [
+                        1033,
+                        1079,
+                        1826,
+                        1368
+                    ],
+                    "mask_area_pixels": 163862,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.37,
+                    "bbox_xyxy": [
+                        2001,
+                        1122,
+                        2211,
+                        1203
+                    ],
+                    "mask_area_pixels": 13158,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.335,
+                    "bbox_xyxy": [
+                        1999,
+                        1127,
+                        2102,
+                        1195
+                    ],
+                    "mask_area_pixels": 6679,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.289,
+                    "bbox_xyxy": [
+                        3489,
+                        1176,
+                        3603,
+                        1268
+                    ],
+                    "mask_area_pixels": 9151,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 53,
+            "timestamp_seconds": 1.77,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.88,
+                    "bbox_xyxy": [
+                        3536,
+                        1207,
+                        3837,
+                        1362
+                    ],
+                    "mask_area_pixels": 36482,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.85,
+                    "bbox_xyxy": [
+                        134,
+                        1012,
+                        889,
+                        1382
+                    ],
+                    "mask_area_pixels": 115357,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.792,
+                    "bbox_xyxy": [
+                        0,
+                        1041,
+                        653,
+                        1512
+                    ],
+                    "mask_area_pixels": 196130,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.367,
+                    "bbox_xyxy": [
+                        852,
+                        1064,
+                        1508,
+                        1345
+                    ],
+                    "mask_area_pixels": 141153,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.316,
+                    "bbox_xyxy": [
+                        1998,
+                        1127,
+                        2143,
+                        1199
+                    ],
+                    "mask_area_pixels": 7910,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.27,
+                    "bbox_xyxy": [
+                        1546,
+                        1114,
+                        1644,
+                        1170
+                    ],
+                    "mask_area_pixels": 4245,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.256,
+                    "bbox_xyxy": [
+                        3487,
+                        1174,
+                        3599,
+                        1262
+                    ],
+                    "mask_area_pixels": 8342,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 54,
+            "timestamp_seconds": 1.8,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.63,
+                    "bbox_xyxy": [
+                        252,
+                        1075,
+                        1481,
+                        1561
+                    ],
+                    "mask_area_pixels": 380623,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.501,
+                    "bbox_xyxy": [
+                        3466,
+                        1199,
+                        3755,
+                        1368
+                    ],
+                    "mask_area_pixels": 36635,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.419,
+                    "bbox_xyxy": [
+                        676,
+                        1036,
+                        1553,
+                        1395
+                    ],
+                    "mask_area_pixels": 115295,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.361,
+                    "bbox_xyxy": [
+                        1546,
+                        1114,
+                        1644,
+                        1175
+                    ],
+                    "mask_area_pixels": 4178,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.345,
+                    "bbox_xyxy": [
+                        1996,
+                        1127,
+                        2142,
+                        1200
+                    ],
+                    "mask_area_pixels": 8609,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.275,
+                    "bbox_xyxy": [
+                        1496,
+                        1108,
+                        1645,
+                        1179
+                    ],
+                    "mask_area_pixels": 5888,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 55,
+            "timestamp_seconds": 1.83,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.752,
+                    "bbox_xyxy": [
+                        295,
+                        1042,
+                        906,
+                        1313
+                    ],
+                    "mask_area_pixels": 119044,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.672,
+                    "bbox_xyxy": [
+                        3230,
+                        1202,
+                        3643,
+                        1373
+                    ],
+                    "mask_area_pixels": 37021,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.49,
+                    "bbox_xyxy": [
+                        1129,
+                        1064,
+                        2572,
+                        1592
+                    ],
+                    "mask_area_pixels": 436195,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 56,
+            "timestamp_seconds": 1.87,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.856,
+                    "bbox_xyxy": [
+                        2112,
+                        1105,
+                        3291,
+                        1653
+                    ],
+                    "mask_area_pixels": 394312,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.842,
+                    "bbox_xyxy": [
+                        126,
+                        1031,
+                        677,
+                        1289
+                    ],
+                    "mask_area_pixels": 101731,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.643,
+                    "bbox_xyxy": [
+                        3064,
+                        1193,
+                        3516,
+                        1377
+                    ],
+                    "mask_area_pixels": 40438,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.376,
+                    "bbox_xyxy": [
+                        2114,
+                        1091,
+                        2806,
+                        1513
+                    ],
+                    "mask_area_pixels": 67370,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.361,
+                    "bbox_xyxy": [
+                        2119,
+                        1087,
+                        2802,
+                        1387
+                    ],
+                    "mask_area_pixels": 61472,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.348,
+                    "bbox_xyxy": [
+                        1547,
+                        1114,
+                        1644,
+                        1171
+                    ],
+                    "mask_area_pixels": 4034,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.329,
+                    "bbox_xyxy": [
+                        3488,
+                        1174,
+                        3606,
+                        1263
+                    ],
+                    "mask_area_pixels": 8749,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.314,
+                    "bbox_xyxy": [
+                        2016,
+                        1126,
+                        2151,
+                        1199
+                    ],
+                    "mask_area_pixels": 8816,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.302,
+                    "bbox_xyxy": [
+                        1487,
+                        1111,
+                        1646,
+                        1176
+                    ],
+                    "mask_area_pixels": 5912,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 57,
+            "timestamp_seconds": 1.9,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.75,
+                    "bbox_xyxy": [
+                        2865,
+                        1180,
+                        3725,
+                        1591
+                    ],
+                    "mask_area_pixels": 210294,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.642,
+                    "bbox_xyxy": [
+                        1,
+                        1031,
+                        475,
+                        1268
+                    ],
+                    "mask_area_pixels": 84760,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.564,
+                    "bbox_xyxy": [
+                        2762,
+                        1116,
+                        3280,
+                        1375
+                    ],
+                    "mask_area_pixels": 67914,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.356,
+                    "bbox_xyxy": [
+                        1556,
+                        1115,
+                        1643,
+                        1170
+                    ],
+                    "mask_area_pixels": 3793,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.343,
+                    "bbox_xyxy": [
+                        2004,
+                        1129,
+                        2137,
+                        1200
+                    ],
+                    "mask_area_pixels": 6798,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.34,
+                    "bbox_xyxy": [
+                        3490,
+                        1173,
+                        3602,
+                        1261
+                    ],
+                    "mask_area_pixels": 8260,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.339,
+                    "bbox_xyxy": [
+                        2760,
+                        1123,
+                        3125,
+                        1373
+                    ],
+                    "mask_area_pixels": 53290,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.318,
+                    "bbox_xyxy": [
+                        2256,
+                        1123,
+                        2369,
+                        1216
+                    ],
+                    "mask_area_pixels": 10812,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.251,
+                    "bbox_xyxy": [
+                        1489,
+                        1113,
+                        1644,
+                        1176
+                    ],
+                    "mask_area_pixels": 5801,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 58,
+            "timestamp_seconds": 1.93,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.816,
+                    "bbox_xyxy": [
+                        2606,
+                        1179,
+                        3192,
+                        1394
+                    ],
+                    "mask_area_pixels": 88251,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.785,
+                    "bbox_xyxy": [
+                        0,
+                        1018,
+                        305,
+                        1251
+                    ],
+                    "mask_area_pixels": 55949,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.537,
+                    "bbox_xyxy": [
+                        3447,
+                        1199,
+                        3837,
+                        1529
+                    ],
+                    "mask_area_pixels": 98902,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.408,
+                    "bbox_xyxy": [
+                        3232,
+                        1151,
+                        3622,
+                        1414
+                    ],
+                    "mask_area_pixels": 43135,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.399,
+                    "bbox_xyxy": [
+                        3228,
+                        1151,
+                        3392,
+                        1405
+                    ],
+                    "mask_area_pixels": 33013,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.376,
+                    "bbox_xyxy": [
+                        1554,
+                        1112,
+                        1644,
+                        1169
+                    ],
+                    "mask_area_pixels": 3876,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.337,
+                    "bbox_xyxy": [
+                        2255,
+                        1122,
+                        2366,
+                        1215
+                    ],
+                    "mask_area_pixels": 10542,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.3,
+                    "bbox_xyxy": [
+                        2003,
+                        1128,
+                        2135,
+                        1199
+                    ],
+                    "mask_area_pixels": 7153,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.275,
+                    "bbox_xyxy": [
+                        1496,
+                        1108,
+                        1645,
+                        1174
+                    ],
+                    "mask_area_pixels": 5952,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 59,
+            "timestamp_seconds": 1.97,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.84,
+                    "bbox_xyxy": [
+                        2281,
+                        1176,
+                        2953,
+                        1391
+                    ],
+                    "mask_area_pixels": 104150,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.697,
+                    "bbox_xyxy": [
+                        0,
+                        1035,
+                        132,
+                        1230
+                    ],
+                    "mask_area_pixels": 22252,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.488,
+                    "bbox_xyxy": [
+                        3593,
+                        1141,
+                        3839,
+                        1402
+                    ],
+                    "mask_area_pixels": 42955,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 7,
+                    "label": "truck",
+                    "confidence": 0.488,
+                    "bbox_xyxy": [
+                        3592,
+                        1143,
+                        3838,
+                        1410
+                    ],
+                    "mask_area_pixels": 42980,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.355,
+                    "bbox_xyxy": [
+                        1551,
+                        1113,
+                        1644,
+                        1169
+                    ],
+                    "mask_area_pixels": 3896,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.339,
+                    "bbox_xyxy": [
+                        2257,
+                        1119,
+                        2366,
+                        1212
+                    ],
+                    "mask_area_pixels": 11130,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.311,
+                    "bbox_xyxy": [
+                        1998,
+                        1127,
+                        2128,
+                        1198
+                    ],
+                    "mask_area_pixels": 7952,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.278,
+                    "bbox_xyxy": [
+                        1491,
+                        1109,
+                        1645,
+                        1175
+                    ],
+                    "mask_area_pixels": 6017,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.275,
+                    "bbox_xyxy": [
+                        3484,
+                        1179,
+                        3602,
+                        1263
+                    ],
+                    "mask_area_pixels": 8664,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.274,
+                    "bbox_xyxy": [
+                        3778,
+                        1253,
+                        3838,
+                        1433
+                    ],
+                    "mask_area_pixels": 7952,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 60,
+            "timestamp_seconds": 2.0,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.491,
+                    "bbox_xyxy": [
+                        1959,
+                        1157,
+                        2698,
+                        1396
+                    ],
+                    "mask_area_pixels": 118141,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.314,
+                    "bbox_xyxy": [
+                        1543,
+                        1111,
+                        1643,
+                        1172
+                    ],
+                    "mask_area_pixels": 4103,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.257,
+                    "bbox_xyxy": [
+                        1487,
+                        1105,
+                        1645,
+                        1175
+                    ],
+                    "mask_area_pixels": 7228,
+                    "obstacle_features": 0
+                }
+            ]
+        },
+        {
+            "frame_index": 61,
+            "timestamp_seconds": 2.03,
+            "detections": [
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.623,
+                    "bbox_xyxy": [
+                        3738,
+                        1225,
+                        3838,
+                        1346
+                    ],
+                    "mask_area_pixels": 9777,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.587,
+                    "bbox_xyxy": [
+                        0,
+                        1120,
+                        85,
+                        1279
+                    ],
+                    "mask_area_pixels": 10019,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.324,
+                    "bbox_xyxy": [
+                        1556,
+                        1112,
+                        1643,
+                        1171
+                    ],
+                    "mask_area_pixels": 3687,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.275,
+                    "bbox_xyxy": [
+                        1637,
+                        1138,
+                        2408,
+                        1387
+                    ],
+                    "mask_area_pixels": 126327,
+                    "obstacle_features": 0
+                },
+                {
+                    "class_id": 2,
+                    "label": "car",
+                    "confidence": 0.259,
+                    "bbox_xyxy": [
+                        1486,
+                        1108,
+                        1645,
+                        1175
+                    ],
+                    "mask_area_pixels": 7167,
+                    "obstacle_features": 0
+                }
+            ]
+        }
+    ]
+}

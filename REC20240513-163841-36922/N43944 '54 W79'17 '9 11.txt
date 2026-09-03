@@ -1,0 +1,50 @@
+==================================================
+            GEOGRAPHIC COORDINATE REPORT          
+==================================================
+Raw Input Value:     N43944 '54 W79'17 '9 11
+Cleaned DM Format:   43° 44.540' N, 79° 17.911' W
+Decimal Latitude:    43.742333
+Decimal Longitude:   -79.298517
+--------------------------------------------------
+City / Region:       Toronto
+State / Province:    Ontario
+Postal / Zip Code:   M1R 2Y8
+Full Formal Address: 16, Electro Road, Wexford, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1R 2Y8, Canada
+==================================================
+
+--- SYSTEM METADATA JSON ---
+{
+    "place_id": 418361722,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13859168333,
+    "lat": "43.7424400",
+    "lon": "-79.2981700",
+    "class": "place",
+    "type": "house",
+    "place_rank": 30,
+    "importance": 8.130235751883753e-05,
+    "addresstype": "place",
+    "name": "",
+    "display_name": "16, Electro Road, Wexford, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1R 2Y8, Canada",
+    "address": {
+        "house_number": "16",
+        "road": "Electro Road",
+        "neighbourhood": "Wexford",
+        "quarter": "Scarborough Centre",
+        "suburb": "Scarborough",
+        "city": "Toronto",
+        "state_district": "Golden Horseshoe",
+        "state": "Ontario",
+        "ISO3166-2-lvl4": "CA-ON",
+        "postcode": "M1R 2Y8",
+        "country": "Canada",
+        "country_code": "ca"
+    },
+    "boundingbox": [
+        "43.7423900",
+        "43.7424900",
+        "-79.2982200",
+        "-79.2981200"
+    ]
+}

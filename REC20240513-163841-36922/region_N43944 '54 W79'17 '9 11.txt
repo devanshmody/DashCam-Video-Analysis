@@ -1,0 +1,4 @@
+Region: Scarborough
+Market Summary: Current MLS® stats indicate an average house price of $0 and -1 new listings in the last 28 days. As of today, housing data shows median days on market for a home is 0 days.
+Extracted Average Price: $0
+Median Days on Market: 0 days
