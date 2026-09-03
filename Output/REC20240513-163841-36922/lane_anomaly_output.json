@@ -1,0 +1,2881 @@
+{
+    "video_source": "/Users/devanshmody/Dashcam/Videos/Rovedashcam/video/Front/REC20240513-163841-36922.mp4",
+    "detections": [
+        {
+            "frame": 1,
+            "timestamp_seconds": 0.03,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        196,
+                        1076,
+                        889,
+                        1371
+                    ]
+                },
+                {
+                    "bbox": [
+                        2328,
+                        1054,
+                        3477,
+                        1572
+                    ]
+                },
+                {
+                    "bbox": [
+                        2333,
+                        1055,
+                        3473,
+                        1561
+                    ]
+                },
+                {
+                    "bbox": [
+                        3682,
+                        1158,
+                        3792,
+                        1238
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 2,
+            "timestamp_seconds": 0.07,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1,
+                        1028,
+                        443,
+                        1286
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1007,
+                        90,
+                        1097
+                    ]
+                },
+                {
+                    "bbox": [
+                        1546,
+                        1076,
+                        1626,
+                        1120
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 3,
+            "timestamp_seconds": 0.1,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        561,
+                        925,
+                        1851,
+                        1522
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1001,
+                        200,
+                        1250
+                    ]
+                },
+                {
+                    "bbox": [
+                        2068,
+                        1074,
+                        2303,
+                        1163
+                    ]
+                },
+                {
+                    "bbox": [
+                        2069,
+                        1074,
+                        2202,
+                        1156
+                    ]
+                },
+                {
+                    "bbox": [
+                        2362,
+                        1078,
+                        2499,
+                        1167
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 4,
+            "timestamp_seconds": 0.13,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        34,
+                        905,
+                        1001,
+                        1403
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        978,
+                        90,
+                        1045
+                    ]
+                },
+                {
+                    "bbox": [
+                        2349,
+                        1048,
+                        2484,
+                        1153
+                    ]
+                },
+                {
+                    "bbox": [
+                        3623,
+                        1132,
+                        3835,
+                        1372
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 5,
+            "timestamp_seconds": 0.17,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        908,
+                        476,
+                        1304
+                    ]
+                },
+                {
+                    "bbox": [
+                        3316,
+                        974,
+                        3838,
+                        1377
+                    ]
+                },
+                {
+                    "bbox": [
+                        2060,
+                        1034,
+                        2271,
+                        1122
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 6,
+            "timestamp_seconds": 0.2,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        933,
+                        110,
+                        1265
+                    ]
+                },
+                {
+                    "bbox": [
+                        2906,
+                        961,
+                        3831,
+                        1390
+                    ]
+                },
+                {
+                    "bbox": [
+                        2329,
+                        1018,
+                        2472,
+                        1121
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        916,
+                        116,
+                        1266
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 7,
+            "timestamp_seconds": 0.23,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2387,
+                        902,
+                        3558,
+                        1377
+                    ]
+                },
+                {
+                    "bbox": [
+                        2322,
+                        1011,
+                        2437,
+                        1098
+                    ]
+                },
+                {
+                    "bbox": [
+                        3613,
+                        1071,
+                        3712,
+                        1144
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 8,
+            "timestamp_seconds": 0.27,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1690,
+                        833,
+                        3122,
+                        1353
+                    ]
+                },
+                {
+                    "bbox": [
+                        3682,
+                        1115,
+                        3838,
+                        1268
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        934,
+                        90,
+                        995
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 9,
+            "timestamp_seconds": 0.3,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        931,
+                        84,
+                        989
+                    ]
+                },
+                {
+                    "bbox": [
+                        3511,
+                        1106,
+                        3836,
+                        1263
+                    ]
+                },
+                {
+                    "bbox": [
+                        3510,
+                        1139,
+                        3694,
+                        1261
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 10,
+            "timestamp_seconds": 0.33,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3295,
+                        1065,
+                        3706,
+                        1258
+                    ]
+                },
+                {
+                    "bbox": [
+                        612,
+                        770,
+                        1993,
+                        1277
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        931,
+                        88,
+                        983
+                    ]
+                },
+                {
+                    "bbox": [
+                        2278,
+                        967,
+                        2421,
+                        1068
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 11,
+            "timestamp_seconds": 0.37,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3052,
+                        1043,
+                        3521,
+                        1238
+                    ]
+                },
+                {
+                    "bbox": [
+                        263,
+                        757,
+                        1433,
+                        1250
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        880,
+                        85,
+                        971
+                    ]
+                },
+                {
+                    "bbox": [
+                        2003,
+                        951,
+                        2128,
+                        1033
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 12,
+            "timestamp_seconds": 0.4,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        735,
+                        912,
+                        1180
+                    ]
+                },
+                {
+                    "bbox": [
+                        2700,
+                        1025,
+                        3266,
+                        1243
+                    ]
+                },
+                {
+                    "bbox": [
+                        3712,
+                        1086,
+                        3838,
+                        1286
+                    ]
+                },
+                {
+                    "bbox": [
+                        1499,
+                        919,
+                        1570,
+                        985
+                    ]
+                },
+                {
+                    "bbox": [
+                        1984,
+                        937,
+                        2214,
+                        1030
+                    ]
+                },
+                {
+                    "bbox": [
+                        2259,
+                        950,
+                        2389,
+                        1043
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 13,
+            "timestamp_seconds": 0.43,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2356,
+                        1034,
+                        2997,
+                        1261
+                    ]
+                },
+                {
+                    "bbox": [
+                        1,
+                        822,
+                        554,
+                        1204
+                    ]
+                },
+                {
+                    "bbox": [
+                        3525,
+                        1046,
+                        3837,
+                        1292
+                    ]
+                },
+                {
+                    "bbox": [
+                        2251,
+                        970,
+                        2386,
+                        1067
+                    ]
+                },
+                {
+                    "bbox": [
+                        1485,
+                        961,
+                        1562,
+                        1018
+                    ]
+                },
+                {
+                    "bbox": [
+                        1989,
+                        974,
+                        2104,
+                        1050
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 14,
+            "timestamp_seconds": 0.47,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1992,
+                        1019,
+                        2697,
+                        1255
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        818,
+                        283,
+                        1193
+                    ]
+                },
+                {
+                    "bbox": [
+                        3312,
+                        1042,
+                        3840,
+                        1303
+                    ]
+                },
+                {
+                    "bbox": [
+                        1966,
+                        978,
+                        2195,
+                        1062
+                    ]
+                },
+                {
+                    "bbox": [
+                        1977,
+                        981,
+                        2143,
+                        1054
+                    ]
+                },
+                {
+                    "bbox": [
+                        1480,
+                        964,
+                        1568,
+                        1021
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 15,
+            "timestamp_seconds": 0.5,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1614,
+                        1004,
+                        2365,
+                        1247
+                    ]
+                },
+                {
+                    "bbox": [
+                        3047,
+                        1013,
+                        3663,
+                        1292
+                    ]
+                },
+                {
+                    "bbox": [
+                        3044,
+                        1014,
+                        3663,
+                        1293
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 16,
+            "timestamp_seconds": 0.53,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1215,
+                        1002,
+                        1942,
+                        1240
+                    ]
+                },
+                {
+                    "bbox": [
+                        2665,
+                        994,
+                        3417,
+                        1308
+                    ]
+                },
+                {
+                    "bbox": [
+                        3636,
+                        1067,
+                        3837,
+                        1279
+                    ]
+                },
+                {
+                    "bbox": [
+                        1991,
+                        983,
+                        2179,
+                        1073
+                    ]
+                },
+                {
+                    "bbox": [
+                        11,
+                        935,
+                        110,
+                        991
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 17,
+            "timestamp_seconds": 0.57,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        898,
+                        1006,
+                        1607,
+                        1239
+                    ]
+                },
+                {
+                    "bbox": [
+                        2280,
+                        977,
+                        3157,
+                        1305
+                    ]
+                },
+                {
+                    "bbox": [
+                        3469,
+                        1060,
+                        3837,
+                        1286
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 18,
+            "timestamp_seconds": 0.6,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1864,
+                        967,
+                        2825,
+                        1308
+                    ]
+                },
+                {
+                    "bbox": [
+                        642,
+                        1004,
+                        1270,
+                        1233
+                    ]
+                },
+                {
+                    "bbox": [
+                        3275,
+                        1053,
+                        3742,
+                        1302
+                    ]
+                },
+                {
+                    "bbox": [
+                        3271,
+                        1088,
+                        3614,
+                        1294
+                    ]
+                },
+                {
+                    "bbox": [
+                        1501,
+                        988,
+                        1569,
+                        1048
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 19,
+            "timestamp_seconds": 0.63,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        417,
+                        1008,
+                        983,
+                        1222
+                    ]
+                },
+                {
+                    "bbox": [
+                        3045,
+                        1044,
+                        3582,
+                        1312
+                    ]
+                },
+                {
+                    "bbox": [
+                        37,
+                        963,
+                        133,
+                        1015
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 20,
+            "timestamp_seconds": 0.67,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        201,
+                        1005,
+                        692,
+                        1209
+                    ]
+                },
+                {
+                    "bbox": [
+                        961,
+                        944,
+                        1964,
+                        1282
+                    ]
+                },
+                {
+                    "bbox": [
+                        2720,
+                        1029,
+                        3374,
+                        1316
+                    ]
+                },
+                {
+                    "bbox": [
+                        3767,
+                        1159,
+                        3838,
+                        1279
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 21,
+            "timestamp_seconds": 0.7,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        52,
+                        1000,
+                        482,
+                        1193
+                    ]
+                },
+                {
+                    "bbox": [
+                        2399,
+                        1013,
+                        3155,
+                        1329
+                    ]
+                },
+                {
+                    "bbox": [
+                        626,
+                        933,
+                        1560,
+                        1283
+                    ]
+                },
+                {
+                    "bbox": [
+                        3658,
+                        1136,
+                        3838,
+                        1301
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 22,
+            "timestamp_seconds": 0.73,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        358,
+                        937,
+                        1179,
+                        1266
+                    ]
+                },
+                {
+                    "bbox": [
+                        2029,
+                        1004,
+                        2882,
+                        1322
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1007,
+                        302,
+                        1187
+                    ]
+                },
+                {
+                    "bbox": [
+                        3536,
+                        1114,
+                        3837,
+                        1302
+                    ]
+                },
+                {
+                    "bbox": [
+                        1972,
+                        1022,
+                        2158,
+                        1099
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 23,
+            "timestamp_seconds": 0.77,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        153,
+                        942,
+                        872,
+                        1271
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1018,
+                        160,
+                        1183
+                    ]
+                },
+                {
+                    "bbox": [
+                        3395,
+                        1099,
+                        3835,
+                        1316
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 24,
+            "timestamp_seconds": 0.8,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        953,
+                        552,
+                        1242
+                    ]
+                },
+                {
+                    "bbox": [
+                        3210,
+                        1104,
+                        3707,
+                        1326
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 25,
+            "timestamp_seconds": 0.83,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        900,
+                        982,
+                        1775,
+                        1300
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        951,
+                        343,
+                        1234
+                    ]
+                },
+                {
+                    "bbox": [
+                        2000,
+                        1048,
+                        2206,
+                        1133
+                    ]
+                },
+                {
+                    "bbox": [
+                        2244,
+                        1041,
+                        2374,
+                        1135
+                    ]
+                },
+                {
+                    "bbox": [
+                        1944,
+                        1043,
+                        2186,
+                        1130
+                    ]
+                },
+                {
+                    "bbox": [
+                        3024,
+                        1090,
+                        3573,
+                        1343
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 26,
+            "timestamp_seconds": 0.87,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        627,
+                        983,
+                        1435,
+                        1297
+                    ]
+                },
+                {
+                    "bbox": [
+                        2817,
+                        1090,
+                        3404,
+                        1354
+                    ]
+                },
+                {
+                    "bbox": [
+                        3758,
+                        1212,
+                        3838,
+                        1309
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        962,
+                        178,
+                        1215
+                    ]
+                },
+                {
+                    "bbox": [
+                        1873,
+                        881,
+                        2300,
+                        1140
+                    ]
+                },
+                {
+                    "bbox": [
+                        2006,
+                        1058,
+                        2134,
+                        1135
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 27,
+            "timestamp_seconds": 0.9,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        404,
+                        983,
+                        1117,
+                        1286
+                    ]
+                },
+                {
+                    "bbox": [
+                        2567,
+                        1085,
+                        3218,
+                        1367
+                    ]
+                },
+                {
+                    "bbox": [
+                        3707,
+                        1190,
+                        3820,
+                        1321
+                    ]
+                },
+                {
+                    "bbox": [
+                        1976,
+                        1065,
+                        2148,
+                        1146
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 28,
+            "timestamp_seconds": 0.93,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        192,
+                        983,
+                        805,
+                        1273
+                    ]
+                },
+                {
+                    "bbox": [
+                        2261,
+                        1111,
+                        2957,
+                        1371
+                    ]
+                },
+                {
+                    "bbox": [
+                        3625,
+                        1168,
+                        3782,
+                        1329
+                    ]
+                },
+                {
+                    "bbox": [
+                        2157,
+                        1056,
+                        2706,
+                        1297
+                    ]
+                },
+                {
+                    "bbox": [
+                        2018,
+                        1072,
+                        2210,
+                        1149
+                    ]
+                },
+                {
+                    "bbox": [
+                        2006,
+                        1073,
+                        2157,
+                        1147
+                    ]
+                },
+                {
+                    "bbox": [
+                        1554,
+                        1054,
+                        1633,
+                        1115
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 29,
+            "timestamp_seconds": 0.97,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3547,
+                        1175,
+                        3754,
+                        1336
+                    ]
+                },
+                {
+                    "bbox": [
+                        44,
+                        986,
+                        582,
+                        1256
+                    ]
+                },
+                {
+                    "bbox": [
+                        1557,
+                        1068,
+                        1637,
+                        1123
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 30,
+            "timestamp_seconds": 1.0,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3443,
+                        1170,
+                        3728,
+                        1343
+                    ]
+                },
+                {
+                    "bbox": [
+                        1,
+                        985,
+                        385,
+                        1240
+                    ]
+                },
+                {
+                    "bbox": [
+                        1357,
+                        1021,
+                        1930,
+                        1289
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 31,
+            "timestamp_seconds": 1.03,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3311,
+                        1152,
+                        3700,
+                        1356
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        984,
+                        220,
+                        1218
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        980,
+                        221,
+                        1223
+                    ]
+                },
+                {
+                    "bbox": [
+                        2015,
+                        1076,
+                        2255,
+                        1169
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 32,
+            "timestamp_seconds": 1.07,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        924,
+                        1078,
+                        1694,
+                        1343
+                    ]
+                },
+                {
+                    "bbox": [
+                        3150,
+                        1159,
+                        3582,
+                        1356
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        998,
+                        62,
+                        1207
+                    ]
+                },
+                {
+                    "bbox": [
+                        632,
+                        1013,
+                        1181,
+                        1254
+                    ]
+                },
+                {
+                    "bbox": [
+                        3041,
+                        1143,
+                        3402,
+                        1329
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 33,
+            "timestamp_seconds": 1.1,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        645,
+                        1060,
+                        1347,
+                        1332
+                    ]
+                },
+                {
+                    "bbox": [
+                        2982,
+                        1167,
+                        3459,
+                        1362
+                    ]
+                },
+                {
+                    "bbox": [
+                        386,
+                        1000,
+                        864,
+                        1240
+                    ]
+                },
+                {
+                    "bbox": [
+                        2758,
+                        1128,
+                        3159,
+                        1333
+                    ]
+                },
+                {
+                    "bbox": [
+                        1565,
+                        1076,
+                        1643,
+                        1134
+                    ]
+                },
+                {
+                    "bbox": [
+                        3526,
+                        1150,
+                        3634,
+                        1237
+                    ]
+                },
+                {
+                    "bbox": [
+                        284,
+                        849,
+                        1646,
+                        1133
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 34,
+            "timestamp_seconds": 1.13,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2751,
+                        1165,
+                        3315,
+                        1375
+                    ]
+                },
+                {
+                    "bbox": [
+                        420,
+                        1072,
+                        1038,
+                        1313
+                    ]
+                },
+                {
+                    "bbox": [
+                        2435,
+                        1125,
+                        2945,
+                        1339
+                    ]
+                },
+                {
+                    "bbox": [
+                        3514,
+                        1155,
+                        3596,
+                        1236
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 35,
+            "timestamp_seconds": 1.17,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2505,
+                        1160,
+                        3125,
+                        1375
+                    ]
+                },
+                {
+                    "bbox": [
+                        228,
+                        1057,
+                        767,
+                        1292
+                    ]
+                },
+                {
+                    "bbox": [
+                        2077,
+                        1118,
+                        2664,
+                        1339
+                    ]
+                },
+                {
+                    "bbox": [
+                        19,
+                        1010,
+                        377,
+                        1216
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 36,
+            "timestamp_seconds": 1.2,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2148,
+                        1149,
+                        2848,
+                        1372
+                    ]
+                },
+                {
+                    "bbox": [
+                        32,
+                        1056,
+                        489,
+                        1268
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 37,
+            "timestamp_seconds": 1.23,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        1038,
+                        312,
+                        1252
+                    ]
+                },
+                {
+                    "bbox": [
+                        264,
+                        887,
+                        1648,
+                        1141
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 38,
+            "timestamp_seconds": 1.27,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        980,
+                        1094,
+                        1558,
+                        1308
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1040,
+                        141,
+                        1233
+                    ]
+                },
+                {
+                    "bbox": [
+                        2257,
+                        1111,
+                        2389,
+                        1209
+                    ]
+                },
+                {
+                    "bbox": [
+                        3541,
+                        1177,
+                        3611,
+                        1261
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 39,
+            "timestamp_seconds": 1.3,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        701,
+                        1082,
+                        1245,
+                        1297
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1034,
+                        76,
+                        1285
+                    ]
+                },
+                {
+                    "bbox": [
+                        3513,
+                        1175,
+                        3607,
+                        1264
+                    ]
+                },
+                {
+                    "bbox": [
+                        2002,
+                        1117,
+                        2214,
+                        1198
+                    ]
+                },
+                {
+                    "bbox": [
+                        2249,
+                        1110,
+                        2385,
+                        1208
+                    ]
+                },
+                {
+                    "bbox": [
+                        2000,
+                        1123,
+                        2117,
+                        1194
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 40,
+            "timestamp_seconds": 1.33,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        805,
+                        1116,
+                        1452,
+                        1357
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        982,
+                        477,
+                        1344
+                    ]
+                },
+                {
+                    "bbox": [
+                        473,
+                        1076,
+                        901,
+                        1276
+                    ]
+                },
+                {
+                    "bbox": [
+                        3733,
+                        1190,
+                        3838,
+                        1353
+                    ]
+                },
+                {
+                    "bbox": [
+                        3497,
+                        1173,
+                        3607,
+                        1266
+                    ]
+                },
+                {
+                    "bbox": [
+                        2013,
+                        1130,
+                        2123,
+                        1194
+                    ]
+                },
+                {
+                    "bbox": [
+                        2255,
+                        1123,
+                        2371,
+                        1210
+                    ]
+                },
+                {
+                    "bbox": [
+                        1555,
+                        1110,
+                        1644,
+                        1171
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 41,
+            "timestamp_seconds": 1.37,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        789,
+                        1105,
+                        1119,
+                        1326
+                    ]
+                },
+                {
+                    "bbox": [
+                        3656,
+                        1188,
+                        3836,
+                        1356
+                    ]
+                },
+                {
+                    "bbox": [
+                        157,
+                        987,
+                        979,
+                        1372
+                    ]
+                },
+                {
+                    "bbox": [
+                        2017,
+                        1125,
+                        2162,
+                        1205
+                    ]
+                },
+                {
+                    "bbox": [
+                        2012,
+                        1120,
+                        2225,
+                        1211
+                    ]
+                },
+                {
+                    "bbox": [
+                        1557,
+                        1119,
+                        1640,
+                        1171
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 42,
+            "timestamp_seconds": 1.4,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        591,
+                        1010,
+                        1578,
+                        1460
+                    ]
+                },
+                {
+                    "bbox": [
+                        84,
+                        1063,
+                        457,
+                        1256
+                    ]
+                },
+                {
+                    "bbox": [
+                        3571,
+                        1185,
+                        3835,
+                        1363
+                    ]
+                },
+                {
+                    "bbox": [
+                        294,
+                        1091,
+                        653,
+                        1282
+                    ]
+                },
+                {
+                    "bbox": [
+                        2017,
+                        1124,
+                        2165,
+                        1206
+                    ]
+                },
+                {
+                    "bbox": [
+                        2014,
+                        1117,
+                        2214,
+                        1211
+                    ]
+                },
+                {
+                    "bbox": [
+                        1555,
+                        1116,
+                        1643,
+                        1178
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 43,
+            "timestamp_seconds": 1.43,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        203,
+                        1077,
+                        573,
+                        1281
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1048,
+                        406,
+                        1463
+                    ]
+                },
+                {
+                    "bbox": [
+                        3480,
+                        1184,
+                        3833,
+                        1365
+                    ]
+                },
+                {
+                    "bbox": [
+                        2254,
+                        1124,
+                        2374,
+                        1212
+                    ]
+                },
+                {
+                    "bbox": [
+                        2033,
+                        1118,
+                        2215,
+                        1208
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 44,
+            "timestamp_seconds": 1.47,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        356,
+                        1066,
+                        1449,
+                        1560
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1051,
+                        329,
+                        1263
+                    ]
+                },
+                {
+                    "bbox": [
+                        3343,
+                        1170,
+                        3738,
+                        1371
+                    ]
+                },
+                {
+                    "bbox": [
+                        1559,
+                        1117,
+                        1642,
+                        1174
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 45,
+            "timestamp_seconds": 1.5,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2618,
+                        1088,
+                        3381,
+                        1446
+                    ]
+                },
+                {
+                    "bbox": [
+                        1,
+                        1060,
+                        154,
+                        1239
+                    ]
+                },
+                {
+                    "bbox": [
+                        3277,
+                        1162,
+                        3643,
+                        1408
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1054,
+                        158,
+                        1350
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 46,
+            "timestamp_seconds": 1.53,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        0,
+                        1031,
+                        611,
+                        1487
+                    ]
+                },
+                {
+                    "bbox": [
+                        2496,
+                        1144,
+                        3491,
+                        1643
+                    ]
+                },
+                {
+                    "bbox": [
+                        3171,
+                        1117,
+                        3673,
+                        1412
+                    ]
+                },
+                {
+                    "bbox": [
+                        2025,
+                        1129,
+                        2163,
+                        1206
+                    ]
+                },
+                {
+                    "bbox": [
+                        1554,
+                        1112,
+                        1642,
+                        1171
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 47,
+            "timestamp_seconds": 1.57,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2858,
+                        1148,
+                        3380,
+                        1392
+                    ]
+                },
+                {
+                    "bbox": [
+                        471,
+                        1046,
+                        1476,
+                        1535
+                    ]
+                },
+                {
+                    "bbox": [
+                        3258,
+                        1171,
+                        3839,
+                        1533
+                    ]
+                },
+                {
+                    "bbox": [
+                        1557,
+                        1111,
+                        1642,
+                        1171
+                    ]
+                },
+                {
+                    "bbox": [
+                        2026,
+                        1128,
+                        2156,
+                        1205
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 48,
+            "timestamp_seconds": 1.6,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3714,
+                        1172,
+                        3838,
+                        1457
+                    ]
+                },
+                {
+                    "bbox": [
+                        2590,
+                        1137,
+                        3231,
+                        1396
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 49,
+            "timestamp_seconds": 1.63,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2021,
+                        1129,
+                        2165,
+                        1208
+                    ]
+                },
+                {
+                    "bbox": [
+                        1997,
+                        1130,
+                        2136,
+                        1204
+                    ]
+                },
+                {
+                    "bbox": [
+                        2330,
+                        1140,
+                        2748,
+                        1390
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 50,
+            "timestamp_seconds": 1.67,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1993,
+                        1127,
+                        2174,
+                        1199
+                    ]
+                },
+                {
+                    "bbox": [
+                        3254,
+                        1157,
+                        3814,
+                        1518
+                    ]
+                },
+                {
+                    "bbox": [
+                        3255,
+                        1152,
+                        3809,
+                        1518
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 51,
+            "timestamp_seconds": 1.7,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3663,
+                        1186,
+                        3837,
+                        1457
+                    ]
+                },
+                {
+                    "bbox": [
+                        3482,
+                        1176,
+                        3605,
+                        1271
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 52,
+            "timestamp_seconds": 1.73,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3723,
+                        1230,
+                        3837,
+                        1352
+                    ]
+                },
+                {
+                    "bbox": [
+                        260,
+                        900,
+                        1647,
+                        1158
+                    ]
+                },
+                {
+                    "bbox": [
+                        3488,
+                        1175,
+                        3604,
+                        1265
+                    ]
+                },
+                {
+                    "bbox": [
+                        2255,
+                        1126,
+                        2373,
+                        1210
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 53,
+            "timestamp_seconds": 1.77,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3633,
+                        1216,
+                        3838,
+                        1358
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1010,
+                        390,
+                        1361
+                    ]
+                },
+                {
+                    "bbox": [
+                        1033,
+                        1079,
+                        1826,
+                        1368
+                    ]
+                },
+                {
+                    "bbox": [
+                        2001,
+                        1122,
+                        2211,
+                        1203
+                    ]
+                },
+                {
+                    "bbox": [
+                        1999,
+                        1127,
+                        2102,
+                        1195
+                    ]
+                },
+                {
+                    "bbox": [
+                        3489,
+                        1176,
+                        3603,
+                        1268
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 54,
+            "timestamp_seconds": 1.8,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3536,
+                        1207,
+                        3837,
+                        1362
+                    ]
+                },
+                {
+                    "bbox": [
+                        134,
+                        1012,
+                        889,
+                        1382
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1041,
+                        653,
+                        1512
+                    ]
+                },
+                {
+                    "bbox": [
+                        852,
+                        1064,
+                        1508,
+                        1345
+                    ]
+                },
+                {
+                    "bbox": [
+                        1998,
+                        1127,
+                        2143,
+                        1199
+                    ]
+                },
+                {
+                    "bbox": [
+                        1546,
+                        1114,
+                        1644,
+                        1170
+                    ]
+                },
+                {
+                    "bbox": [
+                        3487,
+                        1174,
+                        3599,
+                        1262
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 55,
+            "timestamp_seconds": 1.83,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        252,
+                        1075,
+                        1481,
+                        1561
+                    ]
+                },
+                {
+                    "bbox": [
+                        3466,
+                        1199,
+                        3755,
+                        1368
+                    ]
+                },
+                {
+                    "bbox": [
+                        676,
+                        1036,
+                        1553,
+                        1395
+                    ]
+                },
+                {
+                    "bbox": [
+                        1546,
+                        1114,
+                        1644,
+                        1175
+                    ]
+                },
+                {
+                    "bbox": [
+                        1996,
+                        1127,
+                        2142,
+                        1200
+                    ]
+                },
+                {
+                    "bbox": [
+                        1496,
+                        1108,
+                        1645,
+                        1179
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 56,
+            "timestamp_seconds": 1.87,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        295,
+                        1042,
+                        906,
+                        1313
+                    ]
+                },
+                {
+                    "bbox": [
+                        3230,
+                        1202,
+                        3643,
+                        1373
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 57,
+            "timestamp_seconds": 1.9,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        126,
+                        1031,
+                        677,
+                        1289
+                    ]
+                },
+                {
+                    "bbox": [
+                        3064,
+                        1193,
+                        3516,
+                        1377
+                    ]
+                },
+                {
+                    "bbox": [
+                        2119,
+                        1087,
+                        2802,
+                        1387
+                    ]
+                },
+                {
+                    "bbox": [
+                        1547,
+                        1114,
+                        1644,
+                        1171
+                    ]
+                },
+                {
+                    "bbox": [
+                        3488,
+                        1174,
+                        3606,
+                        1263
+                    ]
+                },
+                {
+                    "bbox": [
+                        2016,
+                        1126,
+                        2151,
+                        1199
+                    ]
+                },
+                {
+                    "bbox": [
+                        1487,
+                        1111,
+                        1646,
+                        1176
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 58,
+            "timestamp_seconds": 1.93,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2865,
+                        1180,
+                        3725,
+                        1591
+                    ]
+                },
+                {
+                    "bbox": [
+                        1,
+                        1031,
+                        475,
+                        1268
+                    ]
+                },
+                {
+                    "bbox": [
+                        2762,
+                        1116,
+                        3280,
+                        1375
+                    ]
+                },
+                {
+                    "bbox": [
+                        1556,
+                        1115,
+                        1643,
+                        1170
+                    ]
+                },
+                {
+                    "bbox": [
+                        2004,
+                        1129,
+                        2137,
+                        1200
+                    ]
+                },
+                {
+                    "bbox": [
+                        3490,
+                        1173,
+                        3602,
+                        1261
+                    ]
+                },
+                {
+                    "bbox": [
+                        2760,
+                        1123,
+                        3125,
+                        1373
+                    ]
+                },
+                {
+                    "bbox": [
+                        2256,
+                        1123,
+                        2369,
+                        1216
+                    ]
+                },
+                {
+                    "bbox": [
+                        1489,
+                        1113,
+                        1644,
+                        1176
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 59,
+            "timestamp_seconds": 1.97,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2606,
+                        1179,
+                        3192,
+                        1394
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1018,
+                        305,
+                        1251
+                    ]
+                },
+                {
+                    "bbox": [
+                        3447,
+                        1199,
+                        3837,
+                        1529
+                    ]
+                },
+                {
+                    "bbox": [
+                        3232,
+                        1151,
+                        3622,
+                        1414
+                    ]
+                },
+                {
+                    "bbox": [
+                        3228,
+                        1151,
+                        3392,
+                        1405
+                    ]
+                },
+                {
+                    "bbox": [
+                        1554,
+                        1112,
+                        1644,
+                        1169
+                    ]
+                },
+                {
+                    "bbox": [
+                        2255,
+                        1122,
+                        2366,
+                        1215
+                    ]
+                },
+                {
+                    "bbox": [
+                        2003,
+                        1128,
+                        2135,
+                        1199
+                    ]
+                },
+                {
+                    "bbox": [
+                        1496,
+                        1108,
+                        1645,
+                        1174
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 60,
+            "timestamp_seconds": 2.0,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        2281,
+                        1176,
+                        2953,
+                        1391
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1035,
+                        132,
+                        1230
+                    ]
+                },
+                {
+                    "bbox": [
+                        3593,
+                        1141,
+                        3839,
+                        1402
+                    ]
+                },
+                {
+                    "bbox": [
+                        3592,
+                        1143,
+                        3838,
+                        1410
+                    ]
+                },
+                {
+                    "bbox": [
+                        1551,
+                        1113,
+                        1644,
+                        1169
+                    ]
+                },
+                {
+                    "bbox": [
+                        2257,
+                        1119,
+                        2366,
+                        1212
+                    ]
+                },
+                {
+                    "bbox": [
+                        1998,
+                        1127,
+                        2128,
+                        1198
+                    ]
+                },
+                {
+                    "bbox": [
+                        1491,
+                        1109,
+                        1645,
+                        1175
+                    ]
+                },
+                {
+                    "bbox": [
+                        3484,
+                        1179,
+                        3602,
+                        1263
+                    ]
+                },
+                {
+                    "bbox": [
+                        3778,
+                        1253,
+                        3838,
+                        1433
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 61,
+            "timestamp_seconds": 2.03,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        1543,
+                        1111,
+                        1643,
+                        1172
+                    ]
+                },
+                {
+                    "bbox": [
+                        1487,
+                        1105,
+                        1645,
+                        1175
+                    ]
+                }
+            ]
+        },
+        {
+            "frame": 62,
+            "timestamp_seconds": 2.07,
+            "anomalies": {
+                "faded_or_missing_lanes": false,
+                "lane_drift_intrusion": true
+            },
+            "intruding_vehicles": [
+                {
+                    "bbox": [
+                        3738,
+                        1225,
+                        3838,
+                        1346
+                    ]
+                },
+                {
+                    "bbox": [
+                        0,
+                        1120,
+                        85,
+                        1279
+                    ]
+                },
+                {
+                    "bbox": [
+                        1556,
+                        1112,
+                        1643,
+                        1171
+                    ]
+                },
+                {
+                    "bbox": [
+                        1486,
+                        1108,
+                        1645,
+                        1175
+                    ]
+                }
+            ]
+        }
+    ]
+}
